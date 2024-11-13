@@ -14,6 +14,7 @@ background-image: url(/img/pattern.png);
 
 #logo {
     height: 50px;
+    margin-left: 10px;
 }
 
 /*main*/
@@ -39,7 +40,7 @@ h1 {
 }
 
 figure {
-    font-size:smaller;
+    font-size:x-small;
     margin: 0;
 }
 
@@ -75,6 +76,7 @@ table {
 
 footer {
     background-color: rgb(49, 58, 107);
+    margin-top: 45px;
     padding: 5px;
 }
 
