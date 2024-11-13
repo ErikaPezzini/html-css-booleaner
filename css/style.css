@@ -64,3 +64,15 @@ table {
 .table-color {
     background-color: rgb(223, 229, 242);
 }
+
+/*Footer*/
+
+footer {
+    background-color: rgb(49, 58, 107);
+    padding: 5px;
+}
+
+#copyright {
+    color: white;
+    text-align: center;
+}
