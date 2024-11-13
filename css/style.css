@@ -14,3 +14,53 @@ padding-left: 15px;
 #logo {
     height: 50px;
 }
+
+/*main*/
+/*article*/
+main {
+    margin: 25px;
+    margin-top: 30px;
+}
+#author, h1 {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 25px;
+}
+#author {
+    color:rgb(158, 158, 157);
+    margin-bottom: 20px;
+}
+
+#name-author {
+    color: rgb(115, 174, 247);
+}
+
+#highlighted-text {
+    background-color: rgb(255, 255, 0);
+}
+
+#list-align{
+    padding: 15px;
+}
+
+/*table section*/
+
+table {
+    width: 1870px;
+}
+
+.size {
+    width: 470px;
+}
+
+#table-headers {
+    background-color: rgb(127, 166, 251);
+    color: white;
+    text-align: left;
+}
+
+.table-color {
+    background-color: rgb(223, 229, 242);
+}
