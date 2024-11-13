@@ -9,6 +9,7 @@ background-color:rgb(156, 214, 244);
 padding-top: 30px;
 padding-bottom: 30px;
 padding-left: 15px;
+background-image: url(/img/pattern.png);
 }
 
 #logo {
@@ -35,6 +36,11 @@ h1 {
 
 #name-author {
     color: rgb(115, 174, 247);
+}
+
+figure {
+    font-size:smaller;
+    margin: 0;
 }
 
 #highlighted-text {
