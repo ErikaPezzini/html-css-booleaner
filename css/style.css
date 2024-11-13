@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/*Header*/
+header {
+background-color:rgb(156, 214, 244);
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 15px;
+}
+
+#logo {
+    height: 50px;
+}
